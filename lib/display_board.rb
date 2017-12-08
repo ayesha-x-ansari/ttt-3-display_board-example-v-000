@@ -8,3 +8,4 @@ def display_board
   puts cell  +  "|"    +   cell   +    "|"  +   cell
 
 end
+display_board
